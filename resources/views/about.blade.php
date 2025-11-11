@@ -3,6 +3,26 @@
 
 @section('content')
 
+<!--Page Header Start-->
+<section class="page-header">
+    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+    </div>
+
+    <div class="container">
+        <div class="page-header__inner">
+            <h2>Contact</h2>
+            <div class="thm-breadcrumb__box">
+                <ul class="thm-breadcrumb list-unstyled">
+                    <li><a href="index.html">Home</a></li>
+                    <li><span>/</span></li>
+                    <li>Contact</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Page Header End-->
+
 <!--Feature Two Start-->
 <section class="feature-two">
     <div class="feature-two__shape-1 float-bob-y">
@@ -829,19 +849,7 @@
 </section>
 <!--News Five End-->
 
-<!--CTA Two Start-->
-<section class="cta-two">
-    <div class="container">
-        <div class="cta-two__inner">
-            <div class="cta-two__shape-1 float-bob-x"
-                style="background-image: url(assets/images/shapes/cta-two-shape-1.png);">
-            </div>
-            <h3 class="cta-two__title">Quality, affordable, manufacturing <br> and industrial services</h3>
-            <a href="about.html" class="thm-btn cta-two__btn">Discover more</a>
-        </div>
-    </div>
-</section>
-<!--CTA Two End-->
+
 
 
 @endsection
