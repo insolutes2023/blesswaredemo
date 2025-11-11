@@ -78,7 +78,9 @@
                 </div>
                 <div class="main-menu-two__right">
                     <div class="main-menu-two__search-cart-btn-box">
+                        <div class="main-menu-two__search-box">
 
+                        </div>
 
                         <div class="main-menu-two__call">
                             <div class="main-menu-two__call-icon">
