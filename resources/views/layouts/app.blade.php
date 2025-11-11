@@ -4,12 +4,12 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title> Home Two || austry || austry HTML 5 Template </title>
+	<title> Blessware Technologies Qatar </title>
 	<!-- favicons Icons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-	<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-	<link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/favicon.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon.png" />
+	<link rel="manifest" href="assets/images/favicons/favicon.png" />
 	<meta name="description" content="austry HTML 5 Template " />
 
 	<x-header-script />
