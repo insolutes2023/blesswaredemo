@@ -20,5 +20,5 @@ Route::get('contact-us', [App\Http\Controllers\HomeController::class, 'contact']
 Route::get('book-keeping-financial-services', [App\Http\Controllers\HomeController::class, 'service'])->name('book-keeping-financial-services');
 Route::post('contact-submit', [App\Http\Controllers\HomeController::class, 'contactSubmit'])->name('contact-submit');
 Route::get('audit-assurance', [App\Http\Controllers\HomeController::class, 'audit'])->name('audit-assurance');
-Route::get('tax-services', [App\Http\Controllers\HomeController::class, 'tax'])->name('tax-services');
-Route::get('advisory-services', [App\Http\Controllers\HomeController::class, 'advisory'])->name('advisory-services');
+Route::get('services', [App\Http\Controllers\HomeController::class, 'services'])->name('services');
+Route::get('products', [App\Http\Controllers\HomeController::class, 'products'])->name('products');

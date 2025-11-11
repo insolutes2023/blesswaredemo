@@ -82,7 +82,7 @@ class HomeController extends Controller
     {
         return view('contacts');
     }
-    public function service()
+    public function services()
     {
         return view('service');
     }
@@ -94,8 +94,8 @@ class HomeController extends Controller
     {
         return view('tax');
     }
-    public function advisory()
+    public function products()
     {
-        return view('advisory');
+        return view('products');
     }
 }
