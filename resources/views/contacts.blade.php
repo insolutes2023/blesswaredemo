@@ -33,11 +33,7 @@
                     <h4 class="contact-info__title">About</h4>
                     <p class="contact-info__text">Lorem ipsum is simply free text not <br> used by copytyping
                         refreshing. <br> Neque porro est qui</p>
-                    <div class="contact-info__btn-box">
-                        <div class="contact-info__btn">
-                            <a href="contact.html">Contact</a>
-                        </div>
-                    </div>
+
                     <div class="contact-info__icon">
                         <span class="icon-entrepreneur"></span>
                     </div>
@@ -51,11 +47,7 @@
                     <p class="contact-info__text">Mon-Sat 8:00 - 6:30 Sunday Closed <br> <a
                             href="mailto:needhelp@company.com">needhelp@company.com</a> <br> <a
                             href="tel:922460088">+ 92 (246) 0088</a></p>
-                    <div class="contact-info__btn-box">
-                        <div class="contact-info__btn">
-                            <a href="contact.html">Contact</a>
-                        </div>
-                    </div>
+
                     <div class="contact-info__icon">
                         <span class="icon-contact"></span>
                     </div>
@@ -68,11 +60,7 @@
                     <h4 class="contact-info__title">Address</h4>
                     <p class="contact-info__text">80 Broklyn Golden Seven Street, <br> New York. United States
                         of <br> America </p>
-                    <div class="contact-info__btn-box">
-                        <div class="contact-info__btn">
-                            <a href="contact.html">Contact</a>
-                        </div>
-                    </div>
+
                     <div class="contact-info__icon">
                         <span class="icon-location"></span>
                     </div>
