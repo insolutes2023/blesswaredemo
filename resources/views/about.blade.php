@@ -23,44 +23,7 @@
 </section>
 <!--Page Header End-->
 
-<!--Feature Two Start-->
-<section class="feature-two">
-    <div class="feature-two__shape-1 float-bob-y">
-        <img src="assets/images/shapes/feature-two-shape-1.png" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <!--Feature Two Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                <div class="feature-two__single">
-                    <h3 class="feature-two__title"><a href="services-5.html">Medical & Health <br>
-                            Equipments</a></h3>
-                    <p class="feature-two__text">When an unknown printer took <br> a galley type book.</p>
-                </div>
-            </div>
-            <!--Feature Two Single End-->
-            <!--Feature Two Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                <div class="feature-two__single">
-                    <h3 class="feature-two__title"><a href="services-5.html">High Quality <br>
-                            Production</a></h3>
-                    <p class="feature-two__text">When an unknown printer took <br> a galley type book.</p>
-                </div>
-            </div>
-            <!--Feature Two Single End-->
-            <!--Feature Two Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                <div class="feature-two__single">
-                    <h3 class="feature-two__title"><a href="services-5.html">Pharmacy <br>
-                            Manufacturing</a></h3>
-                    <p class="feature-two__text">When an unknown printer took <br> a galley type book.</p>
-                </div>
-            </div>
-            <!--Feature Two Single End-->
-        </div>
-    </div>
-</section>
-<!--Feature Two End-->
+
 
 <!--About Five Start-->
 <section class="about-five">
