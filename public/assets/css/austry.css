@@ -1824,7 +1824,7 @@ ul {
   position: relative;
   display: block;
   margin-right: 170px;
-  padding: 32px 0;
+  padding: 10px 0;
 }
 
 .main-menu-two__main-menu-box {
@@ -7235,7 +7235,7 @@ ul {
   line-height: 42px;
   font-weight: 800;
   counter-increment: count;
-  content: "0"counter(count);
+  content: "0" counter(count);
   transition: all 200ms linear;
   transition-delay: 0.1s;
   color: var(--austry-black);
@@ -13090,7 +13090,7 @@ ul {
   line-height: 50px;
   font-weight: 300;
   counter-increment: count;
-  content: "0"counter(count);
+  content: "0" counter(count);
   transition: all 200ms linear;
   transition-delay: 0.1s;
   color: var(--austry-extra);
