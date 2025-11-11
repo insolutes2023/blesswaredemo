@@ -74,9 +74,7 @@
 
 <!--Contact Page Form Start-->
 <section class="contact-page-form">
-    <div class="contact-page-form__shape-1 float-bob-x">
-        <img src="assets/images/shapes/contact-page-form-shape-1.png" alt="">
-    </div>
+
     <div class="container">
         <div class="section-title text-center">
             <span class="section-title__tagline">Contact With Us</span>
