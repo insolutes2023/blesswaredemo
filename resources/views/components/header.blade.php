@@ -17,7 +17,7 @@
                                 <i class="icon-clock"></i>
                             </div>
                             <div class="text">
-                                <p>Mon - Sat 8:00 - 6:30, Sunday - CLOSED</p>
+                                <p>Sun - Thu 9:00 - 6:00, Sat - 10:00 - 4.00</p>
                             </div>
                         </li>
                         <li>
@@ -25,7 +25,7 @@
                                 <i class="icon-pin"></i>
                             </div>
                             <div class="text">
-                                <p>80 Broklyn Golden Street, New York. USA</p>
+                                <p>Doha, Qatar</p>
                             </div>
                         </li>
                     </ul>
