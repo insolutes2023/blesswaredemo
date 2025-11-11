@@ -14663,7 +14663,7 @@ ul {
   position: absolute;
   right: 94%;
   bottom: -1px;
-  background-color: #fff;
+  /*background-color: #fff;*/
   transform: skewX(45deg);
   /* clip-path: polygon(0 0, 96% 0, 100% 100%, 0 100%); */
 }
