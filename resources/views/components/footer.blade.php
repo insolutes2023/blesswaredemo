@@ -86,10 +86,7 @@
          </div>
          <div class="site-footer__bottom">
              <p class="site-footer__bottom-text">© Copyright 2023 by <a href="#">Austry.com</a></p>
-             <ul class="list-unstyled site-footer__bottom-menu">
-                 <li><a href="about.html">Help</a></li>
-                 <li><a href="about.html">Privacy Policy</a></li>
-             </ul>
+
          </div>
      </div>
  </footer>
