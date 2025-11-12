@@ -126,53 +126,33 @@
                         <div class="about-two__img">
                             <img src="assets/images/resources/about-two-img-1.jpg" alt="">
                         </div>
-                        <div class="about-two__small-img">
-                            <img src="assets/images/resources/about-two-small-img.jpg" alt="">
-                        </div>
-                        <div class="about-two__big-text">SKILL</div>
-                        <div class="about-two__progress">
-                            <div class="about-two__progress-single">
-                                <h4 class="about-two__progress-title">Wind Turbines</h4>
-                                <div class="bar">
-                                    <div class="bar-inner count-bar" data-percent="76%">
-                                        <div class="count-text">76%</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="about-two__progress-single">
-                                <h4 class="about-two__progress-title">Hybrid Energy</h4>
-                                <div class="bar marb-0">
-                                    <div class="bar-inner count-bar" data-percent="88%">
-                                        <div class="count-text">88%</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="about-two__big-text-two">Austry</div>
+
+
+
+                        <div class="about-two__big-text-two">Blessware</div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-5">
                 <div class="about-two__right">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">About Us</span>
-                        <h2 class="section-title__title">Reshaping energy for the future!</h2>
+
+                        <h2 class="section-title__title"> Innovate with Confidence!</h2>
                     </div>
-                    <p class="about-two__text-1">Save Money, Save The Environment</p>
-                    <p class="about-two__text-2">Dislike men who are so beguiled demoraliz worlds ed by the
-                        charms of pleasure of the moment. Lorem ipsum dolor sit At auctor urna nunc id cursus
-                        metus aliquam. Eget arcu dictum varius duis at. Condimentum lacinia donec tempor.</p>
+                    <p class="about-two__text-1"> “Empowering people and businesses through smart technology."</p>
+                    <p class="about-two__text-2">Welcome to Blessware Technologies Qatar, your trusted partner in innovative
+                        technology solutions. We specialize in retail sales of computers, peripherals, software, and
+                        telecommunications equipment—offering the latest products and cutting-edge services to
+                        empower your digital world.</p>
                     <div class="about-two__points-box">
-                        <div class="about-two__points-img">
-                            <img src="assets/images/resources/about-two-points-img.jpg" alt="">
-                        </div>
+
                         <ul class="list-unstyled about-two__points">
                             <li>
                                 <div class="icon">
                                     <i class="fas fa-arrow-alt-circle-right"></i>
                                 </div>
                                 <div class="text">
-                                    <p>Reliability & performance</p>
+                                    <p>Retail sale of computers and IT accessories</p>
                                 </div>
                             </li>
                             <li>
@@ -180,7 +160,7 @@
                                     <i class="fas fa-arrow-alt-circle-right"></i>
                                 </div>
                                 <div class="text">
-                                    <p>Just-in-time manufacturing</p>
+                                    <p>JSoftware solutions and licensing</p>
                                 </div>
                             </li>
                             <li>
@@ -188,7 +168,7 @@
                                     <i class="fas fa-arrow-alt-circle-right"></i>
                                 </div>
                                 <div class="text">
-                                    <p>Solar material financing</p>
+                                    <p>Telecommunications devices and networking equipment</p>
                                 </div>
                             </li>
                         </ul>
