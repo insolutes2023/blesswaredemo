@@ -73,7 +73,7 @@
 
             <div class="swiper-slide">
                 <div class="image-layer-two"
-                    style="background-image: url(assets/images/backgrounds/banner_3.webp);"></div>
+                    style="background-image: url(assets/images/backgrounds/banner_1.webp);"></div>
                 <!-- /.image-layer -->
 
                 <div class="container">
