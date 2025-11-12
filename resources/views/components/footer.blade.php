@@ -1,7 +1,5 @@
  <footer class="site-footer">
-     <div class="site-footer__img">
-         <img src="assets/images/resources/site-footer-img-1.jpg" alt="">
-     </div>
+
      <div class="container">
          <div class="site-footer__top">
              <div class="row">
