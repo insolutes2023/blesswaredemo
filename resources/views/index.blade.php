@@ -111,6 +111,107 @@
 </section>
 <!--Main Slider End-->
 
+
+<!--About Two Start-->
+<section class="about-two">
+    <div class="about-two__shape-1 float-bob-x">
+        <img src="assets/images/shapes/about-two-shape-1.png" alt="">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-7">
+                <div class="about-two__left">
+                    <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms"
+                        data-wow-duration="2500ms">
+                        <div class="about-two__img">
+                            <img src="assets/images/resources/about-two-img-1.jpg" alt="">
+                        </div>
+                        <div class="about-two__small-img">
+                            <img src="assets/images/resources/about-two-small-img.jpg" alt="">
+                        </div>
+                        <div class="about-two__big-text">SKILL</div>
+                        <div class="about-two__progress">
+                            <div class="about-two__progress-single">
+                                <h4 class="about-two__progress-title">Wind Turbines</h4>
+                                <div class="bar">
+                                    <div class="bar-inner count-bar" data-percent="76%">
+                                        <div class="count-text">76%</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about-two__progress-single">
+                                <h4 class="about-two__progress-title">Hybrid Energy</h4>
+                                <div class="bar marb-0">
+                                    <div class="bar-inner count-bar" data-percent="88%">
+                                        <div class="count-text">88%</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="about-two__big-text-two">Austry</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-5">
+                <div class="about-two__right">
+                    <div class="section-title text-left">
+                        <span class="section-title__tagline">About Us</span>
+                        <h2 class="section-title__title">Reshaping energy for the future!</h2>
+                    </div>
+                    <p class="about-two__text-1">Save Money, Save The Environment</p>
+                    <p class="about-two__text-2">Dislike men who are so beguiled demoraliz worlds ed by the
+                        charms of pleasure of the moment. Lorem ipsum dolor sit At auctor urna nunc id cursus
+                        metus aliquam. Eget arcu dictum varius duis at. Condimentum lacinia donec tempor.</p>
+                    <div class="about-two__points-box">
+                        <div class="about-two__points-img">
+                            <img src="assets/images/resources/about-two-points-img.jpg" alt="">
+                        </div>
+                        <ul class="list-unstyled about-two__points">
+                            <li>
+                                <div class="icon">
+                                    <i class="fas fa-arrow-alt-circle-right"></i>
+                                </div>
+                                <div class="text">
+                                    <p>Reliability & performance</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <i class="fas fa-arrow-alt-circle-right"></i>
+                                </div>
+                                <div class="text">
+                                    <p>Just-in-time manufacturing</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                    <i class="fas fa-arrow-alt-circle-right"></i>
+                                </div>
+                                <div class="text">
+                                    <p>Solar material financing</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="about-two__btn-and-call-box">
+                        <a href="about.html" class="thm-btn about-two__btn">Discover more</a>
+                        <div class="about-two__call-box">
+                            <div class="about-two__call-box-icon">
+                                <span class="icon-phone-call"></span>
+                            </div>
+                            <div class="about-two__call-box-content">
+                                <p class="about-two__call-sub-title">Call Anytime</p>
+                                <h4 class="about-two__number"><a href="922460088">+ 92 (246) 0088</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--About Two End-->
+
 <!--Services Two Start-->
 <section class="services-two">
     <div class="services-two__shape-1 float-bob-x">
@@ -238,105 +339,7 @@
 </section>
 <!--Services Two End-->
 
-<!--About Two Start-->
-<section class="about-two">
-    <div class="about-two__shape-1 float-bob-x">
-        <img src="assets/images/shapes/about-two-shape-1.png" alt="">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-7">
-                <div class="about-two__left">
-                    <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms"
-                        data-wow-duration="2500ms">
-                        <div class="about-two__img">
-                            <img src="assets/images/resources/about-two-img-1.jpg" alt="">
-                        </div>
-                        <div class="about-two__small-img">
-                            <img src="assets/images/resources/about-two-small-img.jpg" alt="">
-                        </div>
-                        <div class="about-two__big-text">SKILL</div>
-                        <div class="about-two__progress">
-                            <div class="about-two__progress-single">
-                                <h4 class="about-two__progress-title">Wind Turbines</h4>
-                                <div class="bar">
-                                    <div class="bar-inner count-bar" data-percent="76%">
-                                        <div class="count-text">76%</div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="about-two__progress-single">
-                                <h4 class="about-two__progress-title">Hybrid Energy</h4>
-                                <div class="bar marb-0">
-                                    <div class="bar-inner count-bar" data-percent="88%">
-                                        <div class="count-text">88%</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="about-two__big-text-two">Austry</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-5">
-                <div class="about-two__right">
-                    <div class="section-title text-left">
-                        <span class="section-title__tagline">About Us</span>
-                        <h2 class="section-title__title">Reshaping energy for the future!</h2>
-                    </div>
-                    <p class="about-two__text-1">Save Money, Save The Environment</p>
-                    <p class="about-two__text-2">Dislike men who are so beguiled demoraliz worlds ed by the
-                        charms of pleasure of the moment. Lorem ipsum dolor sit At auctor urna nunc id cursus
-                        metus aliquam. Eget arcu dictum varius duis at. Condimentum lacinia donec tempor.</p>
-                    <div class="about-two__points-box">
-                        <div class="about-two__points-img">
-                            <img src="assets/images/resources/about-two-points-img.jpg" alt="">
-                        </div>
-                        <ul class="list-unstyled about-two__points">
-                            <li>
-                                <div class="icon">
-                                    <i class="fas fa-arrow-alt-circle-right"></i>
-                                </div>
-                                <div class="text">
-                                    <p>Reliability & performance</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <i class="fas fa-arrow-alt-circle-right"></i>
-                                </div>
-                                <div class="text">
-                                    <p>Just-in-time manufacturing</p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <i class="fas fa-arrow-alt-circle-right"></i>
-                                </div>
-                                <div class="text">
-                                    <p>Solar material financing</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="about-two__btn-and-call-box">
-                        <a href="about.html" class="thm-btn about-two__btn">Discover more</a>
-                        <div class="about-two__call-box">
-                            <div class="about-two__call-box-icon">
-                                <span class="icon-phone-call"></span>
-                            </div>
-                            <div class="about-two__call-box-content">
-                                <p class="about-two__call-sub-title">Call Anytime</p>
-                                <h4 class="about-two__number"><a href="922460088">+ 92 (246) 0088</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--About Two End-->
+
 
 <!--Process One Start-->
 <section class="process-one">
