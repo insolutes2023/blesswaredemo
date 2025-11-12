@@ -37,10 +37,10 @@
                                 <div class="main-slider-two__icon">
                                     <img src="assets/images/icon/main-slider-two-icon.png" alt="">
                                 </div>
-                                <p class="main-slider-two__sub-title">Welcome to Renewable Energy</p>
-                                <h2 class="main-slider-two__title">Improving the <br> Energy Efficiency</h2>
+                                <p class="main-slider-two__sub-title">Welcome to Blessware Technologies Qatar</p>
+                                <h2 class="main-slider-two__title">Innovate <br> with Confidence</h2>
                                 <div class="main-slider-two__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover more</a>
+                                    <a href="{{route('about-us')}}" class="thm-btn main-slider__btn">Discover more</a>
                                 </div>
                             </div>
                         </div>
