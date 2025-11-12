@@ -115,7 +115,7 @@
 <!--About Two Start-->
 <section class="about-two">
     <div class="about-two__shape-1 float-bob-x">
-        <img src="assets/images/shapes/about-two-shape-1.png" alt="">
+
     </div>
     <div class="container">
         <div class="row">
@@ -129,7 +129,7 @@
 
 
 
-                        <div class="about-two__big-text-two">Blessware</div>
+
                     </div>
                 </div>
             </div>
@@ -179,10 +179,7 @@
                             <div class="about-two__call-box-icon">
                                 <span class="icon-phone-call"></span>
                             </div>
-                            <div class="about-two__call-box-content">
-                                <p class="about-two__call-sub-title">Call Anytime</p>
-                                <h4 class="about-two__number"><a href="922460088">+ 92 (246) 0088</a></h4>
-                            </div>
+
                         </div>
                     </div>
                 </div>
