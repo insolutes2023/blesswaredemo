@@ -85,7 +85,7 @@
              </div>
          </div>
          <div class="site-footer__bottom">
-             <p class="site-footer__bottom-text">© Copyright 2023 by <a href="#">Austry.com</a></p>
+             <p class="site-footer__bottom-text">© Copyright 2025 by <a href="https://insolutes.com/">Insolutes Pvt Ltd</a></p>
 
          </div>
      </div>
