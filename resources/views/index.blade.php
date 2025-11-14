@@ -209,16 +209,14 @@
                     <div class="services-two__left">
                         <div class="section-title text-left">
                             <span class="section-title__tagline">What We’re Offering</span>
-                            <h2 class="section-title__title">Inexhaustible and free
-                                <br> source of energy
+                            <h2 class="section-title__title">IT & Digital Services
                             </h2>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6">
                     <div class="services-two__right">
-                        <p class="services-two__text">At auctor urna nunc id cursus metus aliquam. Eget arcu
-                            dictum varius duis at. Condimentum lacinia donec tempor.</p>
+                        <p class="services-two__text">We provide end-to-end digital solutions designed to help businesses grow and operate efficiently. From website and eCommerce development to IT consultancy, system integration, and networking solutions, we cover all your technology needs. Our team also specializes in custom software development and digital transformation, enabling organizations to modernize, innovate, and achieve sustainable success.</p>
                     </div>
                 </div>
             </div>
