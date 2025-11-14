@@ -251,7 +251,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title" style="text-align: center;"><a href="#">IT consultancy and infrastructure setup</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">IT consultancy <br>and infrastructure setup</a></h3>
 
                     </div>
                 </div>
@@ -270,7 +270,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title" style="text-align: center;"><a href="#">System integration and networking solutions</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">System integration <br>and networking solutions</a></h3>
 
                     </div>
                 </div>
