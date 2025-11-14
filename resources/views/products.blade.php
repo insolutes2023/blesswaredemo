@@ -31,7 +31,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
-                        <img src="assets/images/project/project-page-3-1.jpg" alt="">
+                        <img src="assets/images/project/img_2.jpeg" alt="">
                         <div class="project-four__content">
 
                             <h3 class="project-four__title"><a href="#">Computers, laptops, and tablets</a></h3>
@@ -47,7 +47,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
-                        <img src="assets/images/project/project-page-3-2.jpg" alt="">
+                        <img src="assets/images/project/img_3.jpeg" alt="">
                         <div class="project-four__content">
 
                             <h3 class="project-four__title"><a href="#">Computer peripheral units (printers, scanners, storage, etc.)</a></h3>
@@ -63,7 +63,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
-                        <img src="assets/images/project/project-page-3-3.jpg" alt="">
+                        <img src="assets/images/project/img_4.jpeg" alt="">
                         <div class="project-four__content">
 
                             <h3 class="project-four__title"><a href="#">Networking and telecommunications equipment</a>
@@ -80,7 +80,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
-                        <img src="assets/images/project/project-page-3-4.jpg" alt="">
+                        <img src="assets/images/project/img_5.jpeg" alt="">
                         <div class="project-four__content">
 
                             <h3 class="project-four__title"><a href="#">Software applications and licenses</a>
