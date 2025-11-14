@@ -488,7 +488,17 @@
 </section>
 <!--Project Two End-->
 
-
+<section class="cta-three">
+    <div class="container">
+        <div class="cta-three__inner">
+            <div class="cta-three__shape-1 float-bob-y">
+                <img src="assets/images/shapes/cta-three-shape-1.png" alt="">
+            </div>
+            <h3 class="cta-three__title">Quality, affordable, manufacturing <br> and industrial services</h3>
+            <a href="about.html" class="thm-btn cta-three__btn">Discover more</a>
+        </div>
+    </div>
+</section>
 
 
 
