@@ -94,6 +94,53 @@
 </section>
 <!--About Five End-->
 
+<!--FAQ One Start-->
+<section class="faq-one">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6">
+                <div class="faq-one__left">
+                    <div class="section-title text-left">
+
+                        <h2 class="section-title__title">Our Mission</h2>
+                    </div>
+                    <div class="faq-one__icon-box">
+                        <div class="faq-one__icon">
+                            <span class="icon-right-arrow"></span>
+                        </div>
+                        <div class="faq-one__icon-text">
+                            <p> To deliver innovative technology solutions that enhance productivity,
+                                connectivity, and customer experience through quality products and trusted services.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-lg-6">
+                <div class="faq-one__left">
+                    <div class="section-title text-left">
+
+                        <h2 class="section-title__title"> Our Vision</h2>
+                    </div>
+                    <div class="faq-one__icon-box">
+                        <div class="faq-one__icon">
+                            <span class="icon-right-arrow"></span>
+                        </div>
+                        <div class="faq-one__icon-text">
+                            <p> To become Qatar’s most trusted name in technology retail and innovation,
+                                empowering individuals and businesses to grow confidently in the digital era.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--FAQ One End-->
+
 <!--Services Five Start-->
 <!--Services Two Start-->
 <section class="services-two">
@@ -204,52 +251,7 @@
 <!--Services Two End-->
 <!--Services Five End-->
 
-<!--FAQ One Start-->
-<section class="faq-one">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6 col-lg-6">
-                <div class="faq-one__left">
-                    <div class="section-title text-left">
 
-                        <h2 class="section-title__title">Our Mission</h2>
-                    </div>
-                    <div class="faq-one__icon-box">
-                        <div class="faq-one__icon">
-                            <span class="icon-right-arrow"></span>
-                        </div>
-                        <div class="faq-one__icon-text">
-                            <p> To deliver innovative technology solutions that enhance productivity,
-                                connectivity, and customer experience through quality products and trusted services.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="col-xl-6 col-lg-6">
-                <div class="faq-one__left">
-                    <div class="section-title text-left">
-
-                        <h2 class="section-title__title"> Our Vision</h2>
-                    </div>
-                    <div class="faq-one__icon-box">
-                        <div class="faq-one__icon">
-                            <span class="icon-right-arrow"></span>
-                        </div>
-                        <div class="faq-one__icon-text">
-                            <p> To become Qatar’s most trusted name in technology retail and innovation,
-                                empowering individuals and businesses to grow confidently in the digital era.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!--FAQ One End-->
 
 
 <section class="cta-three">
