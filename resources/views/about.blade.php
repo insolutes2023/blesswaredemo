@@ -45,52 +45,47 @@
             <div class="col-xl-6">
                 <div class="about-five__right">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">Get to Know Austry</span>
+
                         <h2 class="section-title__title">The best pharmacy manufacturing industry</h2>
                     </div>
-                    <p class="about-five__text">Dislike men who are so beguiled demoraliz worlds ed by the
-                        charms of pleasure of the moment. Lorem ipsum dolor sit At auctor urna nunc id cursus
-                        metus aliquam. Eget arcu dictum varius duis at.</p>
+                    <p class="about-five__text">Blessware Technologies Qatar is a forward-thinking technology company dedicated to
+                        providing quality IT and telecommunications products, innovative digital solutions, and
+                        unmatched service experiences.
+                        Founded with a passion for innovation and customer excellence, we serve both retail and
+                        corporate clients with the latest tech products, ensuring they stay ahead in today’s
+                        fast-evolving digital landscape.
+                        Our team brings together technology experts, engineers, and innovators who share one
+                        goal—helping you achieve success through technology.</p>
                     <ul class="list-unstyled about-five__points">
                         <li>
                             <div class="icon"><span class="fa fa-check"></span></div>
                             <div class="text">
-                                <p>Nescterur cing elit mons</p>
+                                <p>Retail sale of computers and IT accessories</p>
                             </div>
                         </li>
                         <li>
                             <div class="icon"><span class="fa fa-check"></span></div>
                             <div class="text">
-                                <p>Suspe ndisse suscipit sagittis leo</p>
+                                <p>Software solutions and licensing</p>
                             </div>
                         </li>
                         <li>
                             <div class="icon"><span class="fa fa-check"></span></div>
                             <div class="text">
-                                <p>Entum estibulum dignissim posuere sit not</p>
+                                <p>Telecommunications devices and networking equipment</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="icon"><span class="fa fa-check"></span></div>
+                            <div class="text">
+                                <p>Website and digital innovation services</p>
                             </div>
                         </li>
                     </ul>
-                    <ul class="list-unstyled about-five__feature-icon-box">
-                        <li>
-                            <div class="icon">
-                                <span class="icon-vaccine"></span>
-                            </div>
-                            <div class="text">
-                                <p>Pharmaceutical <br> Industry</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icon">
-                                <span class="icon-manufacturing"></span>
-                            </div>
-                            <div class="text">
-                                <p>Drugs and <br> Medications</p>
-                            </div>
-                        </li>
-                    </ul>
+
                     <div class="about-five__btn-box">
-                        <a href="about.html" class="thm-btn about-five__btn">discover More</a>
+                        <a href="about.html" class="thm-btn about-five__btn">Connect us</a>
                     </div>
                 </div>
             </div>

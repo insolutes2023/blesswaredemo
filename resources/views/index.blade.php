@@ -160,7 +160,7 @@
                                     <i class="fas fa-arrow-alt-circle-right"></i>
                                 </div>
                                 <div class="text">
-                                    <p>JSoftware solutions and licensing</p>
+                                    <p>Software solutions and licensing</p>
                                 </div>
                             </li>
                             <li>
