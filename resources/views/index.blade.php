@@ -140,7 +140,7 @@
                         <h2 class="section-title__title"> Innovate with Confidence!</h2>
                     </div>
                     <p class="about-two__text-1"> “Empowering people and businesses through smart technology."</p>
-                    <p class="about-two__text-2">Welcome to Blessware Technologies Qatar, your trusted partner in innovative
+                    <p class="about-two__text-2" style="text-align: justify;">Welcome to Blessware Technologies Qatar, your trusted partner in innovative
                         technology solutions. We specialize in retail sales of computers, peripherals, software, and
                         telecommunications equipment—offering the latest products and cutting-edge services to
                         empower your digital world.</p>
@@ -174,13 +174,8 @@
                         </ul>
                     </div>
                     <div class="about-two__btn-and-call-box">
-                        <a href="about.html" class="thm-btn about-two__btn">Discover more</a>
-                        <div class="about-two__call-box">
-                            <div class="about-two__call-box-icon">
-                                <span class="icon-phone-call"></span>
-                            </div>
+                        <a href="{{route('about-us')}}" class="thm-btn about-two__btn">Discover more</a>
 
-                        </div>
                     </div>
                 </div>
             </div>
