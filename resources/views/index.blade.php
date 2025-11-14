@@ -171,6 +171,16 @@
                                     <p>Telecommunications devices and networking equipment</p>
                                 </div>
                             </li>
+                            <li>
+                                <div class="icon">
+                                    <i class="fas fa-arrow-alt-circle-right"></i>
+                                </div>
+                                <div class="text">
+                                    <p> Website and digital innovation services</p>
+                                </div>
+                            </li>
+
+
                         </ul>
                     </div>
                     <div class="about-two__btn-and-call-box">
