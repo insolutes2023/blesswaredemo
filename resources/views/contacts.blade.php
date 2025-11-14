@@ -32,7 +32,7 @@
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="contact-info__single">
                     <h4 class="contact-info__title">Business Hours</h4>
-                    <p class="contact-info__text">
+                    <p class="contact-info__text" style="font-size: 14px;">
                         Sunday – Thursday: 9:00 AM – 6:00 PM<br>
                         Friday: Closed<br>
                         Saturday: 10:00 AM – 4:00 PM
@@ -48,7 +48,9 @@
                 <div class="contact-info__single">
                     <h4 class="contact-info__title">Contact</h4>
                     <a
-                        href="mailto:needhelp@company.com"> blesswaretech@gmail.com</a> <br> <a
+                        href="mailto: info@blesswareqatar.com"> info@blesswareqatar.com</a><br>
+                    <a
+                        href="mailto:blesswaretech@gmail.com"> blesswaretech@gmail.com</a> <br> <a
                         href="tel:+97477525914">+974 77525914</a></p>
 
                     <div class="contact-info__icon">
@@ -60,8 +62,8 @@
             <!--Contact Info Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="contact-info__single">
-                    <h4 class="contact-info__title"></h4>
-                    <p class="contact-info__text">Near ICBF,DOHA,QATAR</p>
+                    <h4 class="contact-info__title">Location</h4>
+                    <p class="contact-info__text">Near ICBF,DOHA,QATAR <br> <br> </p>
 
                     <div class="contact-info__icon">
                         <span class="icon-location"></span>
