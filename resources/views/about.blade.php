@@ -95,86 +95,113 @@
 <!--About Five End-->
 
 <!--Services Five Start-->
-<section class="services-five">
-    <div class="services-five__bg-box">
-        <div class="services-five__bg"
-            style="background-image: url(assets/images/backgrounds/services-five-bg.jpg);"></div>
+<!--Services Two Start-->
+<section class="services-two">
+    <div class="services-two__shape-1 float-bob-x">
+        <img src="assets/images/shapes/services-two-shape-1.png" alt="">
+    </div>
+    <div class="services-two__shape-2 float-bob-y">
+        <img src="assets/images/shapes/services-two-shape-2.png" alt="">
     </div>
     <div class="container">
-        <div class="section-title text-center">
-            <span class="section-title__tagline">What We’re Offering</span>
-            <h2 class="section-title__title">Providing solutions for <br> every kind</h2>
+        <div class="services-two__top">
+            <div class="row">
+                <div class="col-xl-7 col-lg-6">
+                    <div class="services-two__left">
+                        <div class="section-title text-left">
+                            <span class="section-title__tagline">What We’re Offering</span>
+                            <h2 class="section-title__title">IT & Digital Services
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-lg-6">
+                    <div class="services-two__right">
+                        <p class="services-two__text">We provide end-to-end digital solutions designed to help businesses grow and operate efficiently. From website and eCommerce development to IT consultancy, system integration, and networking solutions, we cover all your technology needs.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="row">
-            <!--Services Five Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-five__single">
-                    <div class="services-five__img">
-                        <img src="assets/images/services/services-5-1.jpg" alt="">
+            <!--Services Two Single Start-->
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-two__single">
+                    <div class="services-two__img-box">
+                        <div class="services-two__img">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                        </div>
+
                     </div>
-                    <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
-                        <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
-                            <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
-                                simply
-                                free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
-                        </div>
+                    <div class="services-two__content">
+
+                        <h3 class="services-two__title" style="text-align: center;"> <a href="#">Website, Software and eCommerce development</a></h3>
+
                     </div>
                 </div>
             </div>
-            <!--Services Five Single End-->
-            <!--Services Five Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                <div class="services-five__single">
-                    <div class="services-five__img">
-                        <img src="assets/images/services/services-5-2.jpg" alt="">
+            <!--Services Two Single Start-->
+
+            <!--Services Two Single Start-->
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-two__single">
+                    <div class="services-two__img-box">
+                        <div class="services-two__img">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                        </div>
+
                     </div>
-                    <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
-                        <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
-                            <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
-                                simply
-                                free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
-                        </div>
+                    <div class="services-two__content">
+
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">IT consultancy <br>and infrastructure setup</a></h3>
+
                     </div>
                 </div>
             </div>
-            <!--Services Five Single End-->
-            <!--Services Five Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                <div class="services-five__single">
-                    <div class="services-five__img">
-                        <img src="assets/images/services/services-5-3.jpg" alt="">
+            <!--Services Two Single Start-->
+
+
+            <!--Services Two Single Start-->
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-two__single">
+                    <div class="services-two__img-box">
+                        <div class="services-two__img">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                        </div>
+
                     </div>
-                    <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
-                        <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
-                            <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
-                                simply
-                                free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
-                        </div>
+                    <div class="services-two__content">
+
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">System integration <br>and networking solutions</a></h3>
+
                     </div>
                 </div>
             </div>
-            <!--Services Five Single End-->
+            <!--Services Two Single Start-->
+
+
+            <!--Services Two Single Start-->
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-two__single">
+                    <div class="services-two__img-box">
+                        <div class="services-two__img">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                        </div>
+
+                    </div>
+                    <div class="services-two__content">
+
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#"> Digital transformation and technology innovation services
+                            </a></h3>
+
+                    </div>
+                </div>
+            </div>
+            <!--Services Two Single Start-->
+
         </div>
     </div>
 </section>
+<!--Services Two End-->
 <!--Services Five End-->
 
 <!--FAQ One Start-->
