@@ -63,7 +63,7 @@
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="contact-info__single">
                     <h4 class="contact-info__title">Location</h4>
-                    <p class="contact-info__text">Near ICBF,DOHA,QATAR <br> <br> </p>
+                    <p class="contact-info__text">Near ICBF,DOHA,QATAR <br> <br> <br> </p>
 
                     <div class="contact-info__icon">
                         <span class="icon-location"></span>
