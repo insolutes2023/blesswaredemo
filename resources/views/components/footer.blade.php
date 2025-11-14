@@ -3,14 +3,14 @@
      <div class="container">
          <div class="site-footer__top">
              <div class="row">
-                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                      <div class="footer-widget__column footer-widget__about">
                          <div class="footer-widget__logo">
                              <a href="index.html"><img src="assets/images/resources/logo-blessware.webp"
                                      alt=""></a>
                          </div>
                          <div class="footer-widget__about-text-box">
-                             <p class="footer-widget__about-text">We specialize in retail sales of computers, peripherals, software, and
+                             <p class="footer-widget__about-text" style="text-align: justify;">We specialize in retail sales of computers, peripherals, software, and
                                  telecommunications equipment—offering the latest products and cutting-edge services to
                                  empower your digital world.</p>
                          </div>
@@ -60,7 +60,7 @@
                          </ul>
                      </div>
                  </div>
-                 <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                 <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                      <div class="footer-widget__newsletter">
                          <div class="footer-widget__title-box">
                              <h4 class="footer-widget__title">Newsletter</h4>
