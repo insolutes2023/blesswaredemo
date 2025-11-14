@@ -6,12 +6,13 @@
                  <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                      <div class="footer-widget__column footer-widget__about">
                          <div class="footer-widget__logo">
-                             <a href="index.html"><img src="assets/images/resources/footer-logo-2.png"
+                             <a href="index.html"><img src="assets/images/resources/logo-blessware.webp"
                                      alt=""></a>
                          </div>
                          <div class="footer-widget__about-text-box">
-                             <p class="footer-widget__about-text">There are many of simple lorem available for
-                                 not, but the majority alteration.</p>
+                             <p class="footer-widget__about-text">We specialize in retail sales of computers, peripherals, software, and
+                                 telecommunications equipment—offering the latest products and cutting-edge services to
+                                 empower your digital world.</p>
                          </div>
                          <div class="footer-widget__about-btn-box">
                              <a href="contact.html" class="footer-widget__about-btn thm-btn">Contact</a>
@@ -25,9 +26,9 @@
                          </div>
                          <ul class="footer-widget__links-list list-unstyled">
                              <li><a href="about.html">About</a></li>
-                             <li><a href="team.html">Meet Our Team</a></li>
-                             <li><a href="news.html">News & Media</a></li>
-                             <li><a href="projects-1.html">Our Projects</a></li>
+                             <li><a href="team.html">services</a></li>
+                             <li><a href="news.html">Products</a></li>
+
                              <li><a href="contact.html">Contacts</a></li>
                          </ul>
                      </div>
