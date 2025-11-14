@@ -6,11 +6,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title> Blessware Technologies Qatar </title>
 	<!-- favicons Icons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/favicon.png" />
-	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon.png" />
-	<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon.png" />
-	<link rel="manifest" href="assets/images/favicons/favicon.png" />
-	<meta name="description" content="austry HTML 5 Template " />
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/favicon.webp" />
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon.webp" />
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon.webp" />
+	<link rel="manifest" href="assets/images/favicons/favicon.webp" />
+	<meta name="description" content="Blessware Technologies Qatar " />
 
 	<x-header-script />
 
