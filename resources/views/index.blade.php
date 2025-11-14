@@ -239,75 +239,64 @@
                 </div>
             </div>
             <!--Services Two Single Start-->
+
             <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                 <div class="services-two__single">
                     <div class="services-two__img-box">
                         <div class="services-two__img">
-                            <img src="assets/images/services/services-2-2.jpg" alt="">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
                         </div>
-                        <div class="services-two__icon">
-                            <span class="icon-factory-1"></span>
-                        </div>
+
                     </div>
                     <div class="services-two__content">
-                        <p class="services-two__sub-title">Austry</p>
-                        <h3 class="services-two__title"><a href="#">For Industries</a></h3>
-                        <p class="services-two__text">Lorem ipsum dolor sit amet
-                            cons ectetur elit sed.</p>
-                        <div class="services-two__learn-more">
-                            <a href="#">Learn More</a>
-                        </div>
+
+                        <h3 class="services-two__title"><a href="#">IT consultancy and infrastructure setup</a></h3>
+
                     </div>
                 </div>
             </div>
             <!--Services Two Single Start-->
+
+
             <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                 <div class="services-two__single">
                     <div class="services-two__img-box">
                         <div class="services-two__img">
-                            <img src="assets/images/services/services-2-3.jpg" alt="">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
                         </div>
-                        <div class="services-two__icon">
-                            <span class="icon-solar-energy"></span>
-                        </div>
+
                     </div>
                     <div class="services-two__content">
-                        <p class="services-two__sub-title">Austry</p>
-                        <h3 class="services-two__title"><a href="#">For Residence</a></h3>
-                        <p class="services-two__text">Lorem ipsum dolor sit amet
-                            cons ectetur elit sed.</p>
-                        <div class="services-two__learn-more">
-                            <a href="#">Learn More</a>
-                        </div>
+
+                        <h3 class="services-two__title"><a href="#">System integration and networking solutions</a></h3>
+
                     </div>
                 </div>
             </div>
             <!--Services Two Single Start-->
+
+
             <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                 <div class="services-two__single">
                     <div class="services-two__img-box">
                         <div class="services-two__img">
-                            <img src="assets/images/services/services-2-4.jpg" alt="">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
                         </div>
-                        <div class="services-two__icon">
-                            <span class="icon-solar-energy-1"></span>
-                        </div>
+
                     </div>
                     <div class="services-two__content">
-                        <p class="services-two__sub-title">Austry</p>
-                        <h3 class="services-two__title"><a href="#">For Large Areas</a></h3>
-                        <p class="services-two__text">Lorem ipsum dolor sit amet
-                            cons ectetur elit sed.</p>
-                        <div class="services-two__learn-more">
-                            <a href="#">Learn More</a>
-                        </div>
+
+                        <h3 class="services-two__title"><a href="#"> Digital transformation and technology innovation services
+                            </a></h3>
+
                     </div>
                 </div>
             </div>
             <!--Services Two Single Start-->
+
         </div>
     </div>
 </section>
