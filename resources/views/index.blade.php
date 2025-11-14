@@ -457,7 +457,7 @@
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/img_4.jpeg" alt="">
+                        <img src="assets/images/project/img_5.jpeg" alt="">
                         <div class="project-two__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
