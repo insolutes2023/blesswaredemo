@@ -300,7 +300,7 @@
 
 <!--Process One Start-->
 <section class="process-one">
-    <div class="process-one__bg" style="background-image: url(assets/images/backgrounds/process-one-bg.jpg);">
+    <div class="process-one__bg" style="background-image: url(assets/images/backgrounds/bg_img.webp);">
     </div>
     <div class="container">
         <!--<div class="section-title text-center">
