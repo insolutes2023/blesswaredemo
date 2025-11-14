@@ -9,7 +9,7 @@
                                 <i class="icon-email"></i>
                             </div>
                             <div class="text">
-                                <p><a href="needhelp@company.com">info@blesswaretech.com</a></p>
+                                <p><a href="mailto:nfo@blesswaretech.com">info@blesswaretech.com</a></p>
                             </div>
                         </li>
                         <li>
