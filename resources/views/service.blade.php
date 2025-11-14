@@ -13,7 +13,7 @@
             <h2>Services</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><span>/</span></li>
                     <li>Services</li>
                 </ul>
@@ -31,7 +31,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/services-5-1.jpg" alt="">
+                        <img src="assets/images/services/img_8.jpeg" alt="">
                     </div>
                     <div class="services-five__content-box">
 
@@ -50,7 +50,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/services-5-2.jpg" alt="">
+                        <img src="assets/images/services/img_9.jpeg" alt="">
                     </div>
                     <div class="services-five__content-box">
 
@@ -69,7 +69,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/services-5-3.jpg" alt="">
+                        <img src="assets/images/services/img_10.jpeg" alt="">
                     </div>
                     <div class="services-five__content-box">
 
@@ -88,7 +88,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/services-5-4.jpg" alt="">
+                        <img src="assets/images/services/img_11.jpeg" alt="">
                     </div>
                     <div class="services-five__content-box">
 
@@ -107,7 +107,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/services-5-5.jpg" alt="">
+                        <img src="assets/images/services/img_12.jpeg" alt="">
                     </div>
                     <div class="services-five__content-box">
 
