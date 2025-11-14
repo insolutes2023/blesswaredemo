@@ -63,7 +63,7 @@
                                 <p class="main-slider-two__sub-title">Welcome to Renewable Energy</p>
                                 <h2 class="main-slider-two__title">Improving the <br> Energy Efficiency</h2>
                                 <div class="main-slider-two__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover more</a>
+                                    <a href="#" class="thm-btn main-slider__btn">Discover more</a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                                 <p class="main-slider-two__sub-title">Welcome to Renewable Energy</p>
                                 <h2 class="main-slider-two__title">Improving the <br> Energy Efficiency</h2>
                                 <div class="main-slider-two__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover more</a>
+                                    <a href="#" class="thm-btn main-slider__btn">Discover more</a>
                                 </div>
                             </div>
                         </div>
@@ -496,7 +496,7 @@
             </div>
             <h3 class="cta-three__title">Shop online through our website for the latest tech products, <br> or contact our support team
                 for tailored business solutions</h3>
-            <a href="about.html" class="thm-btn cta-three__btn">Discover more</a>
+            <a href="#" class="thm-btn cta-three__btn">Connect us</a>
         </div>
     </div>
 </section>
