@@ -14,9 +14,7 @@
                                  telecommunications equipment—offering the latest products and cutting-edge services to
                                  empower your digital world.</p>
                          </div>
-                         <div class="footer-widget__about-btn-box">
-                             <a href="contact.html" class="footer-widget__about-btn thm-btn">Contact</a>
-                         </div>
+
                      </div>
                  </div>
                  <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
@@ -25,11 +23,11 @@
                              <h4 class="footer-widget__title">Links</h4>
                          </div>
                          <ul class="footer-widget__links-list list-unstyled">
-                             <li><a href="about.html">About</a></li>
-                             <li><a href="team.html">services</a></li>
-                             <li><a href="news.html">Products</a></li>
+                             <li><a href="{{route('about-us')}}">About</a></li>
+                             <li><a href="{{route('services')}}">services</a></li>
+                             <li><a href="{{route('products')}}">Products</a></li>
 
-                             <li><a href="contact.html">Contacts</a></li>
+                             <li><a href="{{route('contact-us')}}">Contacts</a></li>
                          </ul>
                      </div>
                  </div>
@@ -38,7 +36,7 @@
                          <div class="footer-widget__title-box">
                              <h4 class="footer-widget__title">Contact</h4>
                          </div>
-                         <p class="footer-widget__contact-text">30 Road Broklyn Street, 600 <br> New York, USA
+                         <p class="footer-widget__contact-text">Near ICBF <br> New York, USA
                          </p>
                          <ul class="footer-widget__Contact-list list-unstyled">
                              <li>
@@ -46,7 +44,7 @@
                                      <span class="icon-email"></span>
                                  </div>
                                  <div class="text">
-                                     <p><a href="needhelp@company.com">needhelp@company.com</a></p>
+                                     <p><a href="blesswaretech@gmail.com">blesswaretech@gmail.com</a></p>
                                  </div>
                              </li>
                              <li>
@@ -54,7 +52,7 @@
                                      <span class="icon-telephone"></span>
                                  </div>
                                  <div class="text">
-                                     <p><a href="tel:9288008960">+92 ( 8800 ) - 8960</a></p>
+                                     <p><a href="tel:+974 77525914">+974 77525914</a></p>
                                  </div>
                              </li>
                          </ul>
