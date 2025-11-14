@@ -50,7 +50,7 @@
             <div class="main-menu-two__wrapper-inner">
                 <div class="main-menu-two__left">
                     <div class="main-menu-two__logo">
-                        <a href="index.html"><img src="assets/images/resources/logo-blesssware.webp" alt=""></a>
+                        <a href="index.html"><img src="assets/images/resources/logo-blessware.webp" alt=""></a>
                     </div>
                     <div class="main-menu-two__main-menu-box">
                         <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
