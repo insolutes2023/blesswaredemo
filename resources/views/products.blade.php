@@ -50,7 +50,7 @@
                         <img src="assets/images/project/project-page-3-2.jpg" alt="">
                         <div class="project-four__content">
 
-                            <h3 class="project-four__title"><a href="#">Computer peripheral units</a></h3>
+                            <h3 class="project-four__title"><a href="#">Computer peripheral units (printers, scanners, storage, etc.)</a></h3>
                         </div>
                         <div class="project-four__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
