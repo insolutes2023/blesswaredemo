@@ -118,7 +118,7 @@
                     <div class="about-two__img-box wow slideInLeft" data-wow-delay="100ms"
                         data-wow-duration="2500ms">
                         <div class="about-two__img">
-                            <img src="assets/images/resources/about-two-img-1.jpg" alt="">
+                            <img src="assets/images/resources/img_1.jpeg" alt="">
                         </div>
 
 
