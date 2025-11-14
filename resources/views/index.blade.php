@@ -400,7 +400,7 @@
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-1.jpg" alt="">
+                        <img src="assets/images/project/img_2.jpeg" alt="">
                         <div class="project-two__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -420,7 +420,7 @@
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-1.jpg" alt="">
+                        <img src="assets/images/project/img_3.jpeg" alt="">
                         <div class="project-two__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -438,7 +438,7 @@
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-1.jpg" alt="">
+                        <img src="assets/images/project/img_4.jpeg" alt="">
                         <div class="project-two__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
@@ -457,7 +457,7 @@
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-1.jpg" alt="">
+                        <img src="assets/images/project/img_4.jpeg" alt="">
                         <div class="project-two__arrow">
                             <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
