@@ -34,9 +34,7 @@
                         <img src="assets/images/services/services-5-1.jpg" alt="">
                     </div>
                     <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
+
                         <div class="services-five__content">
                             <h3 class="services-five__title"><a href="#">Website and eCommerce development</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
@@ -55,9 +53,7 @@
                         <img src="assets/images/services/services-5-2.jpg" alt="">
                     </div>
                     <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
+
                         <div class="services-five__content">
                             <h3 class="services-five__title"><a href="#">IT consultancy and infrastructure setup</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
@@ -76,9 +72,7 @@
                         <img src="assets/images/services/services-5-3.jpg" alt="">
                     </div>
                     <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-gas"></span>
-                        </div>
+
                         <div class="services-five__content">
                             <h3 class="services-five__title"><a href="#">System integration and networking solutions</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
@@ -97,9 +91,7 @@
                         <img src="assets/images/services/services-5-4.jpg" alt="">
                     </div>
                     <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-biotechnology"></span>
-                        </div>
+
                         <div class="services-five__content">
                             <h3 class="services-five__title"><a href="#">Custom software development</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
@@ -118,9 +110,7 @@
                         <img src="assets/images/services/services-5-5.jpg" alt="">
                     </div>
                     <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-production"></span>
-                        </div>
+
                         <div class="services-five__content">
                             <h3 class="services-five__title"><a href="#">Digital transformation and technology innovation services
                                 </a></h3>
