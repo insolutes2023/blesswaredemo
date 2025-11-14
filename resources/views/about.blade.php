@@ -104,7 +104,7 @@
     padding-bottom: 10px;">
                     <div class="section-title text-left">
 
-                        <h2 class="section-title__title">Our Mission</h2>
+                        <h2 class="section-title__title" style="font-size: 30px;">Our Mission</h2>
                     </div>
                     <div class="faq-one__icon-box">
                         <div class="faq-one__icon">
@@ -125,7 +125,7 @@
     border-bottom-width: 10px;
     padding-bottom: 10px;">
 
-                        <h2 class="section-title__title"> Our Vision</h2>
+                        <h2 class="section-title__title" style="font-size: 30px;"> Our Vision</h2>
                     </div>
                     <div class="faq-one__icon-box">
                         <div class="faq-one__icon">
