@@ -200,48 +200,27 @@
                         amet sapien semper tempus.</p>
                 </div>
             </div>
+
             <div class="col-xl-6 col-lg-6">
-                <div class="faq-one__right">
-                    <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                        <div class="accrodion active">
-                            <div class="accrodion-title">
-                                <h4>What material are used for house building?</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>Sed rhoncus facilisis purus, at accumsan purus sagittis vitae. Nullam
-                                        acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat
-                                        neque amet sapien semper tempus.</p>
-                                </div><!-- /.inner -->
-                            </div>
+                <div class="faq-one__left">
+                    <div class="section-title text-left">
+                        <span class="section-title__tagline">Frequently Asked Questions</span>
+                        <h2 class="section-title__title">Things you would like to know about</h2>
+                    </div>
+                    <div class="faq-one__icon-box">
+                        <div class="faq-one__icon">
+                            <span class="icon-right-arrow"></span>
                         </div>
-                        <div class="accrodion">
-                            <div class="accrodion-title">
-                                <h4>What are the easiest way to get qoute?</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>Sed rhoncus facilisis purus, at accumsan purus sagittis vitae. Nullam
-                                        acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat
-                                        neque amet sapien semper tempus.</p>
-                                </div><!-- /.inner -->
-                            </div>
-                        </div>
-                        <div class="accrodion">
-                            <div class="accrodion-title">
-                                <h4>How much time will I save on a renovation?</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>Sed rhoncus facilisis purus, at accumsan purus sagittis vitae. Nullam
-                                        acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat
-                                        neque amet sapien semper tempus.</p>
-                                </div><!-- /.inner -->
-                            </div>
+                        <div class="faq-one__icon-text">
+                            <p>Donec quis felis commodo orem ipsum is simply free text dolor sit amet.</p>
                         </div>
                     </div>
+                    <p class="faq-one__text">Sed rhoncus facilisis purus, at accumsan purus sagittis vitae.
+                        Nullam acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat neque
+                        amet sapien semper tempus.</p>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
