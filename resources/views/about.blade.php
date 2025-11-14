@@ -10,12 +10,12 @@
 
     <div class="container">
         <div class="page-header__inner">
-            <h2>Contact</h2>
+            <h2>About us</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><span>/</span></li>
-                    <li>Contact</li>
+                    <li>About us</li>
                 </ul>
             </div>
         </div>
@@ -26,7 +26,7 @@
 
 
 <!--About Five Start-->
-<section class="about-five">
+<section class="about-five" style="padding-top: 120px;">
     <div class="container">
         <div class="row">
             <div class="col-xl-6">
