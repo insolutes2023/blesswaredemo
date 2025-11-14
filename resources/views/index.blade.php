@@ -229,9 +229,7 @@
                         <div class="services-two__img">
                             <img src="assets/images/services/websitedevelopment.webp" alt="">
                         </div>
-                        <div class="services-two__icon">
-                            <span class="icon-power-plant"></span>
-                        </div>
+
                     </div>
                     <div class="services-two__content">
 
