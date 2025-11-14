@@ -35,8 +35,8 @@
                         <div class="col-xl-12">
                             <div class="main-slider-two__content">
 
-                                <p class="main-slider-two__sub-title">Welcome to Blessware Technologies Qatar</p>
-                                <h2 class="main-slider-two__title">Innovate <br> with Confidence</h2>
+                                <p class="main-slider-two__sub-title">Your Trusted Partner in Technology Solutions.</p>
+                                <h2 class="main-slider-two__title">Blessware <br>Technologies</h2>
                                 <div class="main-slider-two__btn-box">
                                     <a href="{{route('about-us')}}" class="thm-btn main-slider__btn">Discover more</a>
                                 </div>
