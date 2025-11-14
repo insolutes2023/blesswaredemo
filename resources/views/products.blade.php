@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row">
             <!--Project Four Single Start-->
-            <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="col-xl-3 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
                         <img src="assets/images/project/img_2.jpeg" alt="">
@@ -44,7 +44,7 @@
             </div>
             <!--Project Four Single End-->
             <!--Project Four Single Start-->
-            <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="col-xl-3 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
                         <img src="assets/images/project/img_3.jpeg" alt="">
@@ -60,7 +60,7 @@
             </div>
             <!--Project Four Single End-->
             <!--Project Four Single Start-->
-            <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="col-xl-3 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
                         <img src="assets/images/project/img_4.jpeg" alt="">
@@ -77,7 +77,7 @@
             </div>
             <!--Project Four Single End-->
             <!--Project Four Single Start-->
-            <div class="col-xl-4 col-lg-6 col-md-6">
+            <div class="col-xl-3 col-lg-6 col-md-6">
                 <div class="project-four__single">
                     <div class="project-four__img">
                         <img src="assets/images/project/img_5.jpeg" alt="">
