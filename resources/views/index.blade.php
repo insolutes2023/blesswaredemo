@@ -378,7 +378,7 @@
     </div>
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Featured Products</span>
+
             <h2 class="section-title__title"> Retail Products</h2>
         </div>
         <div class="project-two__carousel thm-owl__carousel owl-theme owl-carousel" data-owl-options='{
