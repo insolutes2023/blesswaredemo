@@ -494,7 +494,7 @@
             <div class="cta-three__shape-1 float-bob-y">
                 <img src="assets/images/shapes/cta-three-shape-1.png" alt="">
             </div>
-            <h3 class="cta-three__title">Shop online through our website for the latest tech products, or contact our support team
+            <h3 class="cta-three__title">Shop online through our website for <br>the latest tech products, or contact <br>our support team
                 for tailored business solutions</h3>
             <a href="about.html" class="thm-btn cta-three__btn">Discover more</a>
         </div>
