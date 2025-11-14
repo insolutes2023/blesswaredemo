@@ -38,12 +38,11 @@
                             <span class="icon-gas"></span>
                         </div>
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
+                            <h3 class="services-five__title"><a href="#">Website and eCommerce development</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
                                 free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -60,12 +59,11 @@
                             <span class="icon-gas"></span>
                         </div>
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
+                            <h3 class="services-five__title"><a href="#">IT consultancy and infrastructure setup</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
                                 free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -82,12 +80,11 @@
                             <span class="icon-gas"></span>
                         </div>
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Medical industry</a></h3>
+                            <h3 class="services-five__title"><a href="#">System integration and networking solutions</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
                                 free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -104,12 +101,11 @@
                             <span class="icon-biotechnology"></span>
                         </div>
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Biotechnology</a></h3>
+                            <h3 class="services-five__title"><a href="#">Custom software development</a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
                                 free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
+
                         </div>
                     </div>
                 </div>
@@ -126,39 +122,18 @@
                             <span class="icon-production"></span>
                         </div>
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Productions</a></h3>
+                            <h3 class="services-five__title"><a href="#">Digital transformation and technology innovation services
+                                </a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
                                 free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
+
                         </div>
                     </div>
                 </div>
             </div>
             <!--Services Five Single End-->
-            <!--Services Five Single Start-->
-            <div class="col-xl-4 col-lg-4 col-md-6">
-                <div class="services-five__single">
-                    <div class="services-five__img">
-                        <img src="assets/images/services/services-5-6.jpg" alt="">
-                    </div>
-                    <div class="services-five__content-box">
-                        <div class="services-five__icon">
-                            <span class="icon-respiratory"></span>
-                        </div>
-                        <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="services-5.html">Respiratory</a></h3>
-                            <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
-                                simply
-                                free text.</p>
-                            <a href="services-5.html" class="services-five__btn">read more <span
-                                    class="icon-right-arrow"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Services Five Single End-->
+
         </div>
     </div>
 </section>
