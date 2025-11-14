@@ -34,10 +34,10 @@
                     <div class="about-five__img-box wow slideInLeft" data-wow-delay="100ms"
                         data-wow-duration="2500ms">
                         <div class="about-five__img">
-                            <img src="assets/images/resources/about-five-img-1.jpg" alt="">
+                            <img src="assets/images/resources/img_6.jpeg" alt="">
                         </div>
                         <div class="about-five__img-2">
-                            <img src="assets/images/resources/about-five-img-2.jpg" alt="">
+                            <img src="assets/images/resources/img_7.jpeg" alt="">
                         </div>
                     </div>
                 </div>
