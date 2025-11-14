@@ -81,7 +81,7 @@
 
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Contact With Us</span>
+
             <h2 class="section-title__title">Feel free to write our <br> team anytime</h2>
         </div>
         <form action="assets/inc/sendemail.php" class="contact-page-form__form-box contact-form-validated"
