@@ -13,7 +13,7 @@
             <h2>Our Products</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{config('app.url')}}">Home</a></li>
                     <li><span>/</span></li>
                     <li>Our Products</li>
                 </ul>

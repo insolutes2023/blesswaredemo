@@ -13,7 +13,7 @@
             <h2>Contact</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="{{config('app.url')}}">Home</a></li>
                     <li><span>/</span></li>
                     <li>Contact</li>
                 </ul>

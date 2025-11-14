@@ -13,7 +13,7 @@
             <h2>About us</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="{{config('app.url')}}">Home</a></li>
                     <li><span>/</span></li>
                     <li>About us</li>
                 </ul>
@@ -85,7 +85,7 @@
                     </ul>
 
                     <div class="about-five__btn-box" style="padding-top: 50px;">
-                        <a href="about.html" class="thm-btn about-five__btn">Connect us</a>
+                        <a href="{{route('contact-us')}}" class="thm-btn about-five__btn">Connect us</a>
                     </div>
                 </div>
             </div>

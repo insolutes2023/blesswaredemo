@@ -38,7 +38,7 @@
                         <a href="#"><i class="fab fa-instagram"></i></a>
                     </div>
                     <div class="main-header-two__btn-box">
-                        <a href="contact.html" class="thm-btn main-header-two__btn">Get a free quote</a>
+                        <a href="{{route('contact-us')}}" class="thm-btn main-header-two__btn">Get a free quote</a>
                     </div>
                 </div>
             </div>
