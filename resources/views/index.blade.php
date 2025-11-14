@@ -227,7 +227,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"> <a href="#">Website, Software and eCommerce development</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"> <a href="#">Website, Software and eCommerce development <br></a></h3>
 
                     </div>
                 </div>
@@ -245,7 +245,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"><a href="#">IT consultancy <br>and infrastructure setup</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"><a href="#">IT consultancy <br>and infrastructure setup <br></a></h3>
 
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"><a href="#">System integration <br>and networking solutions</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;text-transform:uppercase"><a href="#">System integration <br>and networking solutions <br></a></h3>
 
                     </div>
                 </div>
