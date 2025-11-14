@@ -184,40 +184,38 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="faq-one__left">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">Frequently Asked Questions</span>
-                        <h2 class="section-title__title">Things you would like to know about</h2>
+
+                        <h2 class="section-title__title">Our Mission</h2>
                     </div>
                     <div class="faq-one__icon-box">
                         <div class="faq-one__icon">
                             <span class="icon-right-arrow"></span>
                         </div>
                         <div class="faq-one__icon-text">
-                            <p>Donec quis felis commodo orem ipsum is simply free text dolor sit amet.</p>
+                            <p> To deliver innovative technology solutions that enhance productivity,
+                                connectivity, and customer experience through quality products and trusted services.</p>
                         </div>
                     </div>
-                    <p class="faq-one__text">Sed rhoncus facilisis purus, at accumsan purus sagittis vitae.
-                        Nullam acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat neque
-                        amet sapien semper tempus.</p>
+
                 </div>
             </div>
 
             <div class="col-xl-6 col-lg-6">
                 <div class="faq-one__left">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">Frequently Asked Questions</span>
-                        <h2 class="section-title__title">Things you would like to know about</h2>
+
+                        <h2 class="section-title__title"> Our Vision</h2>
                     </div>
                     <div class="faq-one__icon-box">
                         <div class="faq-one__icon">
                             <span class="icon-right-arrow"></span>
                         </div>
                         <div class="faq-one__icon-text">
-                            <p>Donec quis felis commodo orem ipsum is simply free text dolor sit amet.</p>
+                            <p> To become Qatar’s most trusted name in technology retail and innovation,
+                                empowering individuals and businesses to grow confidently in the digital era.</p>
                         </div>
                     </div>
-                    <p class="faq-one__text">Sed rhoncus facilisis purus, at accumsan purus sagittis vitae.
-                        Nullam acelit at eros imperdiet pulvinar velut nisl. Pellentesque sit placerat neque
-                        amet sapien semper tempus.</p>
+
                 </div>
             </div>
 
