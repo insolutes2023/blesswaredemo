@@ -233,7 +233,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title"><a href="#">Website, Software and eCommerce development</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;"> <a href="#">Website, Software and eCommerce development</a></h3>
 
                     </div>
                 </div>
@@ -251,26 +251,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title"><a href="#">IT consultancy and infrastructure setup</a></h3>
-
-                    </div>
-                </div>
-            </div>
-            <!--Services Two Single Start-->
-
-
-            <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-two__single">
-                    <div class="services-two__img-box">
-                        <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
-                        </div>
-
-                    </div>
-                    <div class="services-two__content">
-
-                        <h3 class="services-two__title"><a href="#">System integration and networking solutions</a></h3>
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">IT consultancy and infrastructure setup</a></h3>
 
                     </div>
                 </div>
@@ -289,7 +270,26 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title"><a href="#"> Digital transformation and technology innovation services
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#">System integration and networking solutions</a></h3>
+
+                    </div>
+                </div>
+            </div>
+            <!--Services Two Single Start-->
+
+
+            <!--Services Two Single Start-->
+            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                <div class="services-two__single">
+                    <div class="services-two__img-box">
+                        <div class="services-two__img">
+                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                        </div>
+
+                    </div>
+                    <div class="services-two__content">
+
+                        <h3 class="services-two__title" style="text-align: center;"><a href="#"> Digital transformation and technology innovation services
                             </a></h3>
 
                     </div>
