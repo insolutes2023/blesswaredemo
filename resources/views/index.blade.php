@@ -303,10 +303,10 @@
     <div class="process-one__bg" style="background-image: url(assets/images/backgrounds/process-one-bg.jpg);">
     </div>
     <div class="container">
-        <div class="section-title text-center">
+        <!--<div class="section-title text-center">
 
             <h2 class="section-title__title">4 easy steps to get the <br> best results</h2>
-        </div>
+        </div>-->
         <div class="row">
             <!--Process One Single Start-->
             <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
@@ -315,9 +315,8 @@
                         <span class="icon-chat"></span>
                         <div class="process-one__count"></div>
                     </div>
-                    <h4 class="process-one__title">Consult Now</h4>
-                    <p class="process-one__text">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor
-                        incididunt ut labore et magna aliqua.</p>
+                    <h4 class="process-one__title">Trusted IT Partner</h4>
+                    <p class="process-one__text">Over 15 years of dedicated experience providing quality IT products and unmatched service.</p>
                 </div>
             </div>
             <!--Process One Single End-->
@@ -328,9 +327,8 @@
                         <span class="icon-solar-energy-2"></span>
                         <div class="process-one__count"></div>
                     </div>
-                    <h4 class="process-one__title">Generate Power</h4>
-                    <p class="process-one__text">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor
-                        incididunt ut labore et magna aliqua.</p>
+                    <h4 class="process-one__title">Innovative IT Consulting </h4>
+                    <p class="process-one__text">Offering expert IT consultancy and infrastructure setup services for your business.</p>
                 </div>
             </div>
             <!--Process One Single End-->
@@ -341,9 +339,8 @@
                         <span class="icon-electric-generator"></span>
                         <div class="process-one__count"></div>
                     </div>
-                    <h4 class="process-one__title">Solar the Power</h4>
-                    <p class="process-one__text">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor
-                        incididunt ut labore et magna aliqua.</p>
+                    <h4 class="process-one__title">Complete Digital World </h4>
+                    <p class="process-one__text">Offering a seamless range from retail products to complex digital services.</p>
                 </div>
             </div>
             <!--Process One Single End-->
@@ -354,9 +351,8 @@
                         <span class="icon-plug"></span>
                         <div class="process-one__count"></div>
                     </div>
-                    <h4 class="process-one__title">Use and Save</h4>
-                    <p class="process-one__text">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor
-                        incididunt ut labore et magna aliqua.</p>
+                    <h4 class="process-one__title">Expert Team of Innovators </h4>
+                    <p class="process-one__text">Our team comprises technology experts, engineers, and innovators focused on your success.</p>
                 </div>
             </div>
             <!--Process One Single End-->
