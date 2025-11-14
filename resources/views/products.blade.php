@@ -10,12 +10,12 @@
 
     <div class="container">
         <div class="page-header__inner">
-            <h2>Projects-3</h2>
+            <h2>Our Products</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><span>/</span></li>
-                    <li>Projects</li>
+                    <li>Our Products</li>
                 </ul>
             </div>
         </div>
