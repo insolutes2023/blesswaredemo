@@ -221,7 +221,7 @@
                 <div class="services-two__single">
                     <div class="services-two__img-box">
                         <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                            <img src="assets/images/services/1_img.webp" alt="">
                         </div>
 
                     </div>
@@ -239,7 +239,7 @@
                 <div class="services-two__single">
                     <div class="services-two__img-box">
                         <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
+                            <img src="assets/images/services/2_img.webp" alt="">
                         </div>
 
                     </div>
