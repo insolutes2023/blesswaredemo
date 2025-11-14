@@ -10,7 +10,7 @@
 
     <div class="container">
         <div class="page-header__inner">
-            <h2>Services-5</h2>
+            <h2>Services</h2>
             <div class="thm-breadcrumb__box">
                 <ul class="thm-breadcrumb list-unstyled">
                     <li><a href="index.html">Home</a></li>
@@ -130,6 +130,18 @@
 <!--Services Page Five End-->
 
 
+<section class="cta-three">
+    <div class="container">
+        <div class="cta-three__inner">
+            <div class="cta-three__shape-1 float-bob-y">
+                <img src="assets/images/shapes/cta-three-shape-1.png" alt="">
+            </div>
+            <h3 class="cta-three__title">Shop online through our website for the latest tech products, <br> or contact our support team
+                for tailored business solutions</h3>
+            <a href="#" class="thm-btn cta-three__btn">Connect us</a>
+        </div>
+    </div>
+</section>
 
 
 @endsection
