@@ -406,12 +406,12 @@
                     <div class="project-two__img">
                         <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow"></span></a>
+                            <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
 
-                        <h3 class="project-two__title"><a href="project-details.html"> Computers, laptops, and tablets</a>
+                        <h3 class="project-two__title" style="text-transform:uppercase"><a href="#"> Computers, laptops, and tablets</a>
                         </h3>
                     </div>
                 </div>
@@ -426,12 +426,12 @@
                     <div class="project-two__img">
                         <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow"></span></a>
+                            <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
 
-                        <h3 class="project-two__title"><a href="project-details.html"> Computer peripheral units (printers, scanners, storage, etc.</a>
+                        <h3 class="project-two__title" style="text-transform:uppercase"><a href="#"> Computer peripheral units printers, scanners, storage, etc.</a>
                         </h3>
                     </div>
                 </div>
@@ -444,12 +444,12 @@
                     <div class="project-two__img">
                         <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow"></span></a>
+                            <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
 
-                        <h3 class="project-two__title"><a href="project-details.html"> Networking and telecommunications equipment</a>
+                        <h3 class="project-two__title" style="text-transform:uppercase"><a href="#"> Networking and telecommunications equipment</a>
                         </h3>
                     </div>
                 </div>
@@ -463,12 +463,12 @@
                     <div class="project-two__img">
                         <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow"></span></a>
+                            <a href="#"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
 
-                        <h3 class="project-two__title"><a href="project-details.html"> Software applications and licenses</a>
+                        <h3 class="project-two__title" style="text-transform:uppercase"><a href="#"> Software applications and licenses</a>
                         </h3>
                     </div>
                 </div>
