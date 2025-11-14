@@ -378,8 +378,8 @@
     </div>
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Featured Project</span>
-            <h2 class="section-title__title">Let's checkout our all <br> latest project</h2>
+            <span class="section-title__tagline">Featured Products</span>
+            <h2 class="section-title__title"> Retail Products</h2>
         </div>
         <div class="project-two__carousel thm-owl__carousel owl-theme owl-carousel" data-owl-options='{
                     "items": 1,
@@ -416,219 +416,81 @@
                         </div>
                     </div>
                     <div class="project-two__content">
-                        <p class="project-two__sub-title">01. Project</p>
-                        <h3 class="project-two__title"><a href="project-details.html">Leading Transition</a>
+
+                        <h3 class="project-two__title"><a href="project-details.html"> Computers, laptops, and tablets</a>
                         </h3>
                     </div>
                 </div>
             </div>
             <!--Project Two Single End-->
+
+
+
             <!--Project Two Single Start-->
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-2.jpg" alt="">
+                        <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
                             <a href="project-details.html"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
-                        <p class="project-two__sub-title">02. Project</p>
-                        <h3 class="project-two__title"><a href="project-details.html">Leading Transition</a>
+
+                        <h3 class="project-two__title"><a href="project-details.html"> Computer peripheral units (printers, scanners, storage, etc.</a>
                         </h3>
                     </div>
                 </div>
             </div>
             <!--Project Two Single End-->
+
             <!--Project Two Single Start-->
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-3.jpg" alt="">
+                        <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
                             <a href="project-details.html"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
-                        <p class="project-two__sub-title">03. Project</p>
-                        <h3 class="project-two__title"><a href="project-details.html">Leading Transition</a>
+
+                        <h3 class="project-two__title"><a href="project-details.html"> Networking and telecommunications equipment</a>
                         </h3>
                     </div>
                 </div>
             </div>
             <!--Project Two Single End-->
+
+
             <!--Project Two Single Start-->
             <div class="item">
                 <div class="project-two__single">
                     <div class="project-two__img">
-                        <img src="assets/images/project/project-2-4.jpg" alt="">
+                        <img src="assets/images/project/project-2-1.jpg" alt="">
                         <div class="project-two__arrow">
                             <a href="project-details.html"><span class="icon-right-arrow"></span></a>
                         </div>
                     </div>
                     <div class="project-two__content">
-                        <p class="project-two__sub-title">04. Project</p>
-                        <h3 class="project-two__title"><a href="project-details.html">Leading Transition</a>
+
+                        <h3 class="project-two__title"><a href="project-details.html"> Software applications and licenses</a>
                         </h3>
                     </div>
                 </div>
             </div>
             <!--Project Two Single End-->
-            <!--Project Two Single Start-->
-            <div class="item">
-                <div class="project-two__single">
-                    <div class="project-two__img">
-                        <img src="assets/images/project/project-2-5.jpg" alt="">
-                        <div class="project-two__arrow">
-                            <a href="project-details.html"><span class="icon-right-arrow"></span></a>
-                        </div>
-                    </div>
-                    <div class="project-two__content">
-                        <p class="project-two__sub-title">05. Project</p>
-                        <h3 class="project-two__title"><a href="project-details.html">Leading Transition</a>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <!--Project Two Single End-->
+
+
+
         </div>
     </div>
 </section>
 <!--Project Two End-->
 
-<!--Brand One Start-->
-<section class="brand-two">
-    <div class="container">
-        <h4 class="brand-two__title">The Business Partners</h4>
-        <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 3
-                    },
-                    "767": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 4
-                    },
-                    "991": {
-                        "spaceBetween": 50,
-                        "slidesPerView": 5
-                    },
-                    "1199": {
-                        "spaceBetween": 100,
-                        "slidesPerView": 5
-                    }
-                }}'>
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-1.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-2.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-3.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-4.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-5.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-1.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-2.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-3.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-4.png" alt="">
-                </div><!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <img src="assets/images/brand/brand-2-5.png" alt="">
-                </div><!-- /.swiper-slide -->
-            </div>
-        </div>
-    </div>
-</section>
-<!--Brand One End-->
 
-<!--Counter Two Start-->
-<section class="counter-two">
-    <div class="counter-two__bg" style="background-image: url(assets/images/backgrounds/counter-two-bg.jpg);">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-6">
-                <div class="counter-two__left">
-                    <div class="section-title text-left">
-                        <span class="section-title__tagline">Renewable Energy</span>
-                        <h2 class="section-title__title">Commercial, industrial
-                            residential and solar
-                            systems!</h2>
-                    </div>
-                    <p class="counter-two__text-1">Austry will help you get things complete reality.</p>
-                    <div class="counter-two__btn-box">
-                        <a href="contact.html" class="counter-two__btn thm-btn">contact us</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-6">
-                <div class="counter-two__right">
-                    <ul class="list-unstyled counter-two__counter">
-                        <li>
-                            <div class="counter-two__single">
-                                <div class="counter-two__count-box count-box">
-                                    <h3 class="count-text" data-stop="801" data-speed="1500">00</h3>
-                                    <span class="counter-two__plus">+</span>
-                                </div>
-                                <p class="counter-two__text-2">Happy Clients</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="counter-two__single">
-                                <div class="counter-two__count-box count-box">
-                                    <h3 class="count-text" data-stop="341" data-speed="1500">00</h3>
-                                    <span class="counter-two__plus">+</span>
-                                </div>
-                                <p class="counter-two__text-2">Completed Projects</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="counter-two__single">
-                                <div class="counter-two__count-box count-box">
-                                    <h3 class="count-text" data-stop="28" data-speed="1500">00</h3>
-                                    <span class="counter-two__plus">+</span>
-                                </div>
-                                <p class="counter-two__text-2">Years Experiance</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="counter-two__single">
-                                <div class="counter-two__count-box count-box">
-                                    <h3 class="count-text" data-stop="160" data-speed="1500">00</h3>
-                                    <span class="counter-two__plus">+</span>
-                                </div>
-                                <p class="counter-two__text-2">Qualified Engineers</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Counter Two End-->
+
+
 
 
 
