@@ -233,7 +233,7 @@
                     </div>
                     <div class="services-two__content">
 
-                        <h3 class="services-two__title"><a href="#">Website, Custom software and eCommerce development</a></h3>
+                        <h3 class="services-two__title"><a href="#">Website, Software and eCommerce development</a></h3>
 
                     </div>
                 </div>
