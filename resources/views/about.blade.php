@@ -45,8 +45,8 @@
             <div class="col-xl-6">
                 <div class="about-five__right">
                     <div class="section-title text-left">
-
-                        <h2 class="section-title__title">The best pharmacy manufacturing industry</h2>
+                        <span class="section-title__tagline">Get to Know Blessware</span>
+                        <h2 class="section-title__title">Empowering people and businesses through smart technology</h2>
                     </div>
                     <p class="about-five__text">Blessware Technologies Qatar is a forward-thinking technology company dedicated to
                         providing quality IT and telecommunications products, innovative digital solutions, and
