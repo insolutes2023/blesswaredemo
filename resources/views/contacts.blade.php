@@ -27,26 +27,29 @@
 <section class="contact-info">
     <div class="container">
         <div class="row">
+
             <!--Contact Info Single Start-->
-            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
+            <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="contact-info__single">
-                    <h4 class="contact-info__title">About</h4>
-                    <p class="contact-info__text">Lorem ipsum is simply free text not <br> used by copytyping
-                        refreshing. <br> Neque porro est qui</p>
+                    <h4 class="contact-info__title">Business Hours</h4>
+                    <p class="contact-info__text">
+                        Sunday – Thursday: 9:00 AM – 6:00 PM<br>
+                        Friday: Closed<br>
+                        Saturday: 10:00 AM – 4:00 PM
+                    </p>
 
                     <div class="contact-info__icon">
-                        <span class="icon-entrepreneur"></span>
+                        <span class="icon-contact"></span>
                     </div>
                 </div>
             </div>
-            <!--Contact Info Single End-->
             <!--Contact Info Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                 <div class="contact-info__single">
                     <h4 class="contact-info__title">Contact</h4>
-                    <p class="contact-info__text">Mon-Sat 8:00 - 6:30 Sunday Closed <br> <a
-                            href="mailto:needhelp@company.com">needhelp@company.com</a> <br> <a
-                            href="tel:922460088">+ 92 (246) 0088</a></p>
+                    <a
+                        href="mailto:needhelp@company.com"> blesswaretech@gmail.com</a> <br> <a
+                        href="tel:+97477525914">+974 77525914</a></p>
 
                     <div class="contact-info__icon">
                         <span class="icon-contact"></span>
@@ -57,9 +60,8 @@
             <!--Contact Info Single Start-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
                 <div class="contact-info__single">
-                    <h4 class="contact-info__title">Address</h4>
-                    <p class="contact-info__text">80 Broklyn Golden Seven Street, <br> New York. United States
-                        of <br> America </p>
+                    <h4 class="contact-info__title"></h4>
+                    <p class="contact-info__text">Near ICBF,DOHA,QATAR</p>
 
                     <div class="contact-info__icon">
                         <span class="icon-location"></span>
