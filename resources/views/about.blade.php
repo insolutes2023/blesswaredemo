@@ -84,7 +84,7 @@
                         </li>
                     </ul>
 
-                    <div class="about-five__btn-box">
+                    <div class="about-five__btn-box" style="padding-top: 50px;">
                         <a href="about.html" class="thm-btn about-five__btn">Connect us</a>
                     </div>
                 </div>
