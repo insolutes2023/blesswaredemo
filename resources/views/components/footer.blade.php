@@ -10,7 +10,7 @@
                                      alt=""></a>
                          </div>
                          <div class="footer-widget__about-text-box">
-                             <p class="footer-widget__about-text" style="text-align: justify;">We specialize in retail sales of computers, peripherals, software, and
+                             <p class="footer-widget__about-text">We specialize in retail sales of computers, peripherals, software, and
                                  telecommunications equipment—offering the latest products and cutting-edge services to
                                  empower your digital world.</p>
                          </div>
