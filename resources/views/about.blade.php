@@ -45,7 +45,7 @@
             <div class="col-xl-6">
                 <div class="about-five__right">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">Get to Know Blessware</span>
+
                         <h2 class="section-title__title">Empowering people and businesses through smart technology</h2>
                     </div>
                     <p class="about-five__text">Blessware Technologies Qatar is a forward-thinking technology company dedicated to
@@ -98,8 +98,10 @@
 <section class="faq-one">
     <div class="container">
         <div class="row">
-            <div class="col-xl-6 col-lg-6">
-                <div class="faq-one__left">
+            <div class="col-xl-6 col-lg-6 card">
+                <div class="faq-one__left" style="padding-top: 10px;
+    border-bottom-width: 10px;
+    padding-bottom: 10px;">
                     <div class="section-title text-left">
 
                         <h2 class="section-title__title">Our Mission</h2>
@@ -117,9 +119,11 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6 card">
                 <div class="faq-one__left">
-                    <div class="section-title text-left">
+                    <div class="section-title text-left" style="padding-top: 10px;
+    border-bottom-width: 10px;
+    padding-bottom: 10px;">
 
                         <h2 class="section-title__title"> Our Vision</h2>
                     </div>
@@ -141,131 +145,6 @@
 </section>
 <!--FAQ One End-->
 
-<!--Services Five Start-->
-<!--Services Two Start-->
-<section class="services-two">
-    <div class="services-two__shape-1 float-bob-x">
-        <img src="assets/images/shapes/services-two-shape-1.png" alt="">
-    </div>
-    <div class="services-two__shape-2 float-bob-y">
-        <img src="assets/images/shapes/services-two-shape-2.png" alt="">
-    </div>
-    <div class="container">
-        <div class="services-two__top">
-            <div class="row">
-                <div class="col-xl-7 col-lg-6">
-                    <div class="services-two__left">
-                        <div class="section-title text-left">
-                            <span class="section-title__tagline">What We’re Offering</span>
-                            <h2 class="section-title__title">IT & Digital Services
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-5 col-lg-6">
-                    <div class="services-two__right">
-                        <p class="services-two__text">We provide end-to-end digital solutions designed to help businesses grow and operate efficiently. From website and eCommerce development to IT consultancy, system integration, and networking solutions, we cover all your technology needs.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-two__single">
-                    <div class="services-two__img-box">
-                        <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
-                        </div>
-
-                    </div>
-                    <div class="services-two__content">
-
-                        <h3 class="services-two__title" style="text-align: center;"> <a href="#">Website, Software and eCommerce development</a></h3>
-
-                    </div>
-                </div>
-            </div>
-            <!--Services Two Single Start-->
-
-            <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-two__single">
-                    <div class="services-two__img-box">
-                        <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
-                        </div>
-
-                    </div>
-                    <div class="services-two__content">
-
-                        <h3 class="services-two__title" style="text-align: center;"><a href="#">IT consultancy <br>and infrastructure setup</a></h3>
-
-                    </div>
-                </div>
-            </div>
-            <!--Services Two Single Start-->
-
-
-            <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-two__single">
-                    <div class="services-two__img-box">
-                        <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
-                        </div>
-
-                    </div>
-                    <div class="services-two__content">
-
-                        <h3 class="services-two__title" style="text-align: center;"><a href="#">System integration <br>and networking solutions</a></h3>
-
-                    </div>
-                </div>
-            </div>
-            <!--Services Two Single Start-->
-
-
-            <!--Services Two Single Start-->
-            <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                <div class="services-two__single">
-                    <div class="services-two__img-box">
-                        <div class="services-two__img">
-                            <img src="assets/images/services/websitedevelopment.webp" alt="">
-                        </div>
-
-                    </div>
-                    <div class="services-two__content">
-
-                        <h3 class="services-two__title" style="text-align: center;"><a href="#"> Digital transformation and technology innovation services
-                            </a></h3>
-
-                    </div>
-                </div>
-            </div>
-            <!--Services Two Single Start-->
-
-        </div>
-    </div>
-</section>
-<!--Services Two End-->
-<!--Services Five End-->
-
-
-
-
-<section class="cta-three">
-    <div class="container">
-        <div class="cta-three__inner">
-            <div class="cta-three__shape-1 float-bob-y">
-                <img src="assets/images/shapes/cta-three-shape-1.png" alt="">
-            </div>
-            <h3 class="cta-three__title">Shop online through our website for the latest tech products, <br> or contact our support team
-                for tailored business solutions</h3>
-            <a href="#" class="thm-btn cta-three__btn">Connect us</a>
-        </div>
-    </div>
-</section>
 
 
 
