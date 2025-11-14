@@ -87,9 +87,8 @@
                                 <span class="icon-phone-ringing"></span>
                             </div>
                             <div class="main-menu-two__call-content">
-                                <p class="main-menu-two__call-sub-title">Call Anytime</p>
-                                <h5 class="main-menu-two__call-number"><a href="tel:922460088">+ 92 (246)
-                                        0088</a></h5>
+                                <p class="main-menu-two__call-sub-title">Call</p>
+                                <h5 class="main-menu-two__call-number"><a href="tel:+97477525914">+974 77525914</a></h5>
                             </div>
                         </div>
                     </div>
