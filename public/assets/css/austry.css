@@ -11832,7 +11832,7 @@ ul {
   padding: 83px 20px 47px;
   background-color: rgb(255, 255, 255);
   margin-top: -60px;
-  clip-path: polygon(0 0, 100% 22%, 100% 100%, 0% 100%);
+  clip-path: polygon(0 0, 100% 21%, 100% 100%, 0% 100%);
   z-index: 2;
 }
 
