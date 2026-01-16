@@ -36,7 +36,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">Website and eCommerce development</a></h3>
+                            <h3 class="services-five__title"><a href="#">Website and eCommerce Development</a></h3>
                             <p class="services-five__text">We build high-performance, responsive websites and robust eCommerce platforms tailored to your business needs. From seamless user interfaces to secure payment integration, we ensure a smooth shopping experience that drives conversions. Elevate your online presence with scalable solutions designed to grow alongside your brand in the digital marketplace.</p>
 
                         </div>
@@ -53,7 +53,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">IT consultancy and infrastructure setup</a></h3>
+                            <h3 class="services-five__title"><a href="#">IT Consultancy and Infrastructure Setup</a></h3>
                             <p class="services-five__text">Our expert consultancy optimizes your technology roadmap to align with business goals. We provide end-to-end infrastructure setup, including hardware procurement, server management, and cloud readiness. By streamlining your IT environment, we enhance operational efficiency, reduce downtime, and ensure your business is supported by a resilient, future-proof technological foundation.</p>
 
                         </div>
@@ -70,7 +70,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">System integration and networking solutions</a></h3>
+                            <h3 class="services-five__title"><a href="#">System Integration and Networking</a></h3>
                             <p class="services-five__text">We bridge the gap between disparate platforms through seamless system integration and secure networking. Our services ensure data flows efficiently across your organization while maintaining top-tier security. From VPN setups to complex API integrations, we create a unified, high-speed environment that empowers your team to collaborate and perform better.</p>
 
                         </div>
@@ -87,7 +87,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">Custom software development</a></h3>
+                            <h3 class="services-five__title"><a href="#">Custom Software Development</a></h3>
                             <p class="services-five__text">Get software that works exactly the way you do. We specialize in developing bespoke applications, from enterprise-level tools to custom apps. Our development process focuses on scalability, security, and user-centric design, ensuring you receive a unique digital product that solves your specific challenges and boosts productivity.</p>
 
                         </div>
@@ -104,7 +104,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">Digital transformation and technology innovation services
+                            <h3 class="services-five__title"><a href="#">Digital Transformation and Technology Innovation
                                 </a></h3>
                             <p class="services-five__text">Stay ahead of the competition by embracing the latest in digital innovation. We help businesses modernize legacy systems and integrate emerging technologies like AI and automation. Our digital transformation services redefine how you deliver value, optimizing your internal workflows and creating a more engaging, tech-driven experience for your customers.</p>
 
