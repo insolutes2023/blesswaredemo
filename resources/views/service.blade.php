@@ -128,7 +128,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6">
                 <div class="services-five__single">
                     <div class="services-five__img">
-                        <img src="assets/images/services/img_12.jpeg" alt="">
+                        <img src="assets/images/services/computer_training.webp" alt="">
                     </div>
                     <div class="services-five__content-box">
 
