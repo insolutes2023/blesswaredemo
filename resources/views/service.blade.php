@@ -124,6 +124,27 @@
             </div>
             <!--Services Five Single End-->
 
+            <!--Services Five Single Start-->
+            <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="services-five__single">
+                    <div class="services-five__img">
+                        <img src="assets/images/services/img_12.jpeg" alt="">
+                    </div>
+                    <div class="services-five__content-box">
+
+                        <div class="services-five__content">
+                            <h3 class="services-five__title"><a href="#">Digital transformation and technology innovation services
+                                </a></h3>
+                            <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
+                                simply
+                                free text.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Services Five Single End-->
+
         </div>
     </div>
 </section>
