@@ -6393,7 +6393,7 @@ ul {
 
 .footer-widget__Contact-list li .icon span {
   font-size: 15px;
-  color: var(--austry-base);
+  color:#ffffff;
   position: relative;
   display: inline-block;
 }
