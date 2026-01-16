@@ -36,7 +36,7 @@
                          <div class="footer-widget__title-box">
                              <h4 class="footer-widget__title">Contact</h4>
                          </div>
-                         <p class="footer-widget__contact-text">Near ICBF <br> New York, USA
+                         <p class="footer-widget__contact-text">Near ICBF,DOHA,QATAR
                          </p>
                          <ul class="footer-widget__Contact-list list-unstyled">
                              <li>
