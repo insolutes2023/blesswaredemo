@@ -133,7 +133,7 @@
                     <div class="services-five__content-box">
 
                         <div class="services-five__content">
-                            <h3 class="services-five__title"><a href="#">Digital transformation and technology innovation services
+                            <h3 class="services-five__title"><a href="#">Computer Training
                                 </a></h3>
                             <p class="services-five__text">Aliq is notm hendr erit a augue insu image pellen
                                 simply
