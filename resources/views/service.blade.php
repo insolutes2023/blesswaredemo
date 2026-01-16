@@ -155,7 +155,7 @@
     <div class="container">
         <div class="cta-three__inner">
             <div class="cta-three__shape-1 float-bob-y">
-                <img src="assets/images/shapes/cta-three-shape-1.png" alt="">
+                <img src="assets/images/shapes/computer_training.webp" alt="">
             </div>
             <h3 class="cta-three__title">Shop online through our website for the latest tech products, <br> or contact our support team
                 for tailored business solutions</h3>
